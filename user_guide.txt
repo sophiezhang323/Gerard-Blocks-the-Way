@@ -1,0 +1,43 @@
+﻿Game: Gerard Blocks the Way
+Date: May 29, 2024
+Author: Sophie Zhang
+
+________________
+
+Introduction:
+
+Have you ever wondered what it's like to be chased by Gerard Way (the lead singer of the band MCR) on your way to an MCR concert? MCR isn't on tour right now, so this is your chance to go to a concert! But first, you have to make it through a game of Gerard Blocks the Way.
+
+Gerard Blocks the Way is an MCR-themed version of the arcade game Frogger. The player, which is a frog, will have Sophie's face on it. The cars on the road from the original version will be replaced by different versions of Gerard Way moving across, trying to hit the player (Gerard Way on a bus, doing karate, as a singer, on a car, and as a boxer). The logs on the river from the original version will be replaced by different instruments that the player can hop on to (electric guitar, keyboard, mic, drum, and acoustic guitar). The slots will be replaced by Sophie's face, and Sophie's face will turn emo (add emo hair) each time a slot is entered.
+
+________________
+
+Goal of the game:
+
+The player begins with three lives, indicated by Sophie's three faces at the bottom right of the window. Each time the player dies, they lose a life, and a face will disappear. If they lose all three lives, they lose the game and don’t get to go to the MCR concert.
+
+The goal of the game is to guide the frog to each of the five slots at the top of the screen. The slots that have already been entered are indicated by the emo hair.
+
+________________
+
+Steps to the game:
+
+The frog begins on a patch of grass at the bottom of the screen, where they are safe. The bottom half of the screen consists of different versions of Gerard Way moving across the road. To stay alive, the player must avoid getting hit by Gerard Way (he's more agressive than he seems).
+
+After crossing the road, the player is again on a patch of grass, where they are safe.
+
+The top half of the screen consists of different instruments floating across the river. To stay alive, the player must be on top of an instrument, and they cannot float off the left or right side of the screen.
+
+Once the player reaches the top of the screen, they must enter an empty slot. If they miss and hit the grass instead, they die. They also die if they try to enter a slot that has already been entered (so don't try to enter a slot where the face has turned emo).
+
+If the player enters all five slots before losing all three lives, they win the game and get to go to the MCR concert. Yay!
+
+If the player loses all three lives, they lose the game and a vampire attacks them. It's okay though, because according to Gerard Way, Vampires Will Never Hurt You!
+
+Good luck!
+
+________________
+
+Controls:
+
+Use the up key to move forwards, use the down key to move backwards, use the left key to move left, and use the right key to move right. These controls are indicated at the bottom of the screen.
