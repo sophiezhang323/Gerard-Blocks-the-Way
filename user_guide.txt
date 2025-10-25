@@ -1,9 +1,3 @@
-﻿Game: Gerard Blocks the Way
-Date: May 29, 2024
-Author: Sophie Zhang
-
-________________
-
 Introduction:
 
 Have you ever wondered what it's like to be chased by Gerard Way (the lead singer of the band MCR) on your way to an MCR concert? MCR isn't on tour right now, so this is your chance to go to a concert! But first, you have to make it through a game of Gerard Blocks the Way.
@@ -39,5 +33,6 @@ Good luck!
 ________________
 
 Controls:
+
 
 Use the up key to move forwards, use the down key to move backwards, use the left key to move left, and use the right key to move right. These controls are indicated at the bottom of the screen.
